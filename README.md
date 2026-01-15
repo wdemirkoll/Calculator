@@ -22,7 +22,7 @@ Requirements 🛠️
 - C++17-capable toolchain (g++, clang++ or MSVC)  
 - For the commands below: MinGW-w64 (on Windows) or mingw-w64 cross-compiler packages (on Linux) 🪟🐧
 
-MinGW (Windows) — Short & simple (g++) 🧰
+MinGW (Windows) — (g++) 🧰
 ----------------------------------------
 - In the MSYS2 MinGW 64-bit shell (or if MinGW-w64 `bin` is on your Windows PATH) compile with:
 ```bash
@@ -39,7 +39,7 @@ g++ -std=c++17 -O2 -o calculator.exe main.cpp
 calculator.exe
 ```
 
-MinGW on Linux (cross-compiling for Windows) — Short 🐧➡️🪟
+MinGW on Linux (cross-compiling for Windows) — ➡️🪟
 ----------------------------------------------------------
 - Install mingw-w64 (Debian/Ubuntu example):
 ```bash
