@@ -138,6 +138,6 @@ Notes and limitations ⚠️
 
 Author 👤
 ------
-wdemirkoll — GitHub: @wdemirkoll
+GitHub: @wdemirkoll
 
 📅 January 2026
